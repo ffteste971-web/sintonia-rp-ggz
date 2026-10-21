@@ -6,7 +6,7 @@ local GuiService = game:GetService("GuiService")
 local player = Players.LocalPlayer
 
 local gui = Instance.new("ScreenGui")
-gui.Name = "sintonia ggzera"
+gui.Name = "ggzera parents"
 gui.ResetOnSpawn = false
 gui.IgnoreGuiInset = true
 gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
